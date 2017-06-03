@@ -48,6 +48,7 @@ int main()
 		}
 		else
 		{
+		
 			printf("Valid\n");
 		}
 		r--;
